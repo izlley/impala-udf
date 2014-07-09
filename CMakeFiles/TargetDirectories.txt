@@ -1,0 +1,6 @@
+/home/leejy/work/impala-udf-samples/CMakeFiles/uda-sample-ir.dir
+/home/leejy/work/impala-udf-samples/CMakeFiles/uda-sample-test.dir
+/home/leejy/work/impala-udf-samples/CMakeFiles/udasample.dir
+/home/leejy/work/impala-udf-samples/CMakeFiles/udf-sample-ir.dir
+/home/leejy/work/impala-udf-samples/CMakeFiles/udf-sample-test.dir
+/home/leejy/work/impala-udf-samples/CMakeFiles/udfsample.dir

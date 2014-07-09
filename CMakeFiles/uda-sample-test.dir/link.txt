@@ -1,0 +1,1 @@
+/usr/bin/c++    -L lib  -fPIC CMakeFiles/uda-sample-test.dir/uda-sample-test.cc.o  -o build/uda-sample-test -rdynamic -lImpalaUdf build/libudasample.so -Wl,-rpath,/app/impala/impala-udf/impala-udf-samples/build 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -L lib  -fPIC CMakeFiles/udf-sample-test.dir/udf-sample-test.cc.o  -o build/udf-sample-test -rdynamic -lImpalaUdf build/libudfsample.so -lcrypto -lssl -ldl -Wl,-rpath,/app/impala/impala-udf/impala-udf-samples/build 
